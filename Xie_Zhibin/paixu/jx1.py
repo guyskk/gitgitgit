@@ -1,5 +1,6 @@
 while True:
     a = input("Enter a standard list, Please:")
+    import pdb; pdb.set_trace()  # breakpoint 70d01fab //
     b = []
     d = len(a)
     i = 0
